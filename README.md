@@ -43,7 +43,7 @@ The cleaned data was loaded, and a quick check was done to make sure everything 
 
 After loading the super store data, I used DAX formulas to calculate key metrics such as total sales, total profit, average delivery days, and total customers. I also explored how profit changes over time and across different categories, sub-categories, states, customer segments, and shipping modes.
 
-To make the insights easy to understand, I created interactive charts that highlight sales trends, profitability, and customer behavior. These visuals help tell the story behind the data and support better, more confident business decisions.<img width="668" height="474" alt="super store_112642" src="https://github.com/user-attachments/assets/0a9fe6ef-b9aa-4fc4-94c4-7f6bfcc44075" />
+To make the insights easy to understand, I created interactive charts that highlight sales trends, profitability, and customer behavior. These visuals help tell the story behind the data and support better, more confident business decisions. <img width="668" height="474" alt="super store_112642" src="https://github.com/user-attachments/assets/0a9fe6ef-b9aa-4fc4-94c4-7f6bfcc44075" />
 
 ### Result
 
